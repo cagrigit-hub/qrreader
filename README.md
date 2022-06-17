@@ -1,1 +1,3 @@
 QR READER PROJECT FOR UNIVERSITY FESTIVAL
+
+npm start -> run project
